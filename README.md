@@ -15,7 +15,7 @@ Materia: Desarrollo Sustentable (ACD-0908) · Tema: 4.4 Obsolescencia planificad
 
 ## 🎥 Video
 
-[▶️ Ver demostración del bot en Youtube]()
+[▶️ Ver demostración del bot en Youtube](https://youtube.com/shorts/1vR-1Mtyjtg?feature=share)
 
 ## 📊 Resultados
 [Ver PDF]()
