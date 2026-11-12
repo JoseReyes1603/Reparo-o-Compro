@@ -18,4 +18,4 @@ Materia: Desarrollo Sustentable (ACD-0908) · Tema: 4.4 Obsolescencia planificad
 [▶️ Ver demostración del bot en Youtube](https://youtube.com/shorts/1vR-1Mtyjtg?feature=share)
 
 ## 📊 Resultados
-[Ver PDF]()
+[Ver PDF](https://github.com/JoseReyes1603/Reparo-o-Compro/blob/main/Resultados/Reporte_P4.4_Bot_Reparo_o_Compro.pdf)
